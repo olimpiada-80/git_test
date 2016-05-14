@@ -1,0 +1,14 @@
+.border_red {
+	border: 3px solid red;
+	border-radius: 10px;
+}
+
+div {
+	height: 100px;
+	width: 100%;
+}
+
+p {
+	text-align: center;
+	font-size: 30px;
+}
